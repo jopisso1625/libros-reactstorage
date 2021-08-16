@@ -1,0 +1,17 @@
+.item {
+  display: inline-block;
+  padding: 10px;
+  margin: 15px;
+  width: 200px;
+  vertical-align: top;
+}
+.item .image img {
+  height: 330px;
+  /* width: 100%; */
+}
+
+.item .title {
+  font-weight: bold;
+  font-size: 18px;
+  height: 70px;
+}
